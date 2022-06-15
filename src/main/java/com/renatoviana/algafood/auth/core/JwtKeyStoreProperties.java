@@ -1,4 +1,4 @@
-package com.renatoviana.algafood.auth;
+package com.renatoviana.algafood.auth.core;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
